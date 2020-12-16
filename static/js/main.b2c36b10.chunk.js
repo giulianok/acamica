@@ -1,0 +1,2 @@
+(this.webpackJsonpacamica=this.webpackJsonpacamica||[]).push([[0],{9:function(t,n,e){"use strict";e.r(n);var c=e(0),a=e(1),i=e.n(a),o=e(3);var r=function(){return Object(c.jsx)("div",{children:"Hola Acamica"})},s=function(t){t&&t instanceof Function&&e.e(3).then(e.bind(null,10)).then((function(n){var e=n.getCLS,c=n.getFID,a=n.getFCP,i=n.getLCP,o=n.getTTFB;e(t),c(t),a(t),i(t),o(t)}))};e.n(o).a.render(Object(c.jsx)(i.a.StrictMode,{children:Object(c.jsx)(r,{})}),document.getElementById("root")),s()}},[[9,1,2]]]);
+//# sourceMappingURL=main.b2c36b10.chunk.js.map
